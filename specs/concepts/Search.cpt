@@ -1,0 +1,52 @@
+Created by fatih.ozdemir on 4.03.2024
+
+# Kategoriler butonuna tiklanir ve kategoriler ekranina gidildigi kontrol edilir
+* Kategoriler butonuna tikla
+* "Kategoriler" texti ile kontrol et
+
+# Elektronik kategorisine tiklanir ve Bilgisayar kategorisi secilir
+* Elektronik butonuna tikla
+* Bilgisayar butonuna tikla
+
+# Acilan ekranda Dizustu Bilgisayara tiklanir
+* Dizustu Bilgisayar elementine tikla
+
+# Filtrele secenegine tiklanir ve Marka altindan rastgele bir marka secilir
+* Filtrele elementine tikla
+* Marka elementine tikla
+* Marka li elementlerinden rastgele sec
+* Uygula butonuna tikla
+
+# Urun puanina kadar kaydirilir ve 4 yildiz ustu secilir
+* Urun Puani elementine kaydir
+* 4 yildiz elementine tikla
+* Sonuclari Goster butonuna tikla
+# Siralamada Cok Satanlar secilir, listelenen urunlerden ilk urunun fiyat bilgisi kaydedilir
+* Akilli Siralama elementine tikla
+* Cok Satanlar elementine tikla
+* Ilk urunun fiyat bilgisini kaydet
+
+# Urun sepete eklenir ve kaydedilen fiyat bilgisi ile sepetteki fiyat kontrol edilir
+* Sepete Ekle butonuna tikla
+* Sepetteki fiyat ile karsilastir
+
+# Urun sepetten silinir ve sepetin bos oldugu kontrol edilir
+* Urun Sil iconuna tikla
+* Sepetin bos oldugunu "Sepetiniz Boş Görünüyor" ile kontrol et
+
+# Arama kutusuna <text> yazilir ve arama yapilir
+* SearchBox elementine <text> degerini gir
+
+# Favorilere ekle iconuna tiklanir
+* Urun ismini kaydet
+* Favori iconuna tikla
+
+# Listelerim butonuna tiklanir ve urunun listeye eklendigi kontrol edilir
+* Listelerim butonuna tikla
+* Urunun listede oldugunu kontrol et
+
+# Urun listeden silinir ve listenin bos oldugu kontrol edilir
+* Sil iconuna tikla
+* Sil butonuna tikla
+* Bos oldugunu Favori Urunlerini Bul ile kontrol et
+

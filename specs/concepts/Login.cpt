@@ -1,0 +1,28 @@
+Created by fatih.ozdemir on 4.03.2024
+
+# Login sayfasina gidilir
+* Hesabim butonuna tikla
+* Giris Yap tabina tikla
+
+# Login islemi <email> emaili ve <password> sifresi ile yapilir
+* E-posta alanina <email> degerini gir
+* Sifre alanina <password> degerini gir
+* Giris Yap butonuna tikla
+
+# Basarili login olundugu kontrol edilir
+* "Merhaba, Fatih" degeri ile kontrol et
+
+# Hesaptan cikis yapilir, anasayfaya yonlendirilir, cikis yapildigi kontrol edilir
+* Hesabim butonuna tikla
+* Hesap Ayarlari butonuna tikla
+* Cikis Yap butonuna tikla
+* Acilan popupda Cikis Yap butonuna tikla
+* Anasayfaya yonlendirildigini "Üye Ol / Giriş Yap" ile kontrol et
+
+# Kayitli olmayan mail ile giris yaptiktan sonra uyari mesaji goruntulenir
+* "E-posta adresi veya şifre hatalı, kontrol edebilir misin?" uyari textini kontrol et
+
+# Gecersiz mail ile giris yaptiktan sonra uyari mesaji goruntulenir
+* "Geçerli bir e-posta adresi girmelisin." uyari textini kontrol et
+
+
