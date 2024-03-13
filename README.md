@@ -8,8 +8,7 @@ Bu proje, N11 mobil uygulaması üzerinden belirli kriterlere uygun temel fonksi
 - [Gereksinimler](#gereksinimler)
 - [Nasıl Çalıştırılır](#nasıl-çalıştırılır)
 - [Test Senaryoları](#test-senaryoları)
-- [Test Koşum Raporunu Görüntüleme](#test-koşum-raporunu-görüntüleme)
-- [Version](#version)
+
 
 ### Projenin Amaçları
 
@@ -39,10 +38,3 @@ Bu proje, aşağıdaki temel mobil test senaryolarını içermektedir:
 * Ürün Arama Senaryosu: Kullanıcı, belirli bir ürünü arayabilmelidir.
 * Sepete Ürün Ekleme Senaryosu: Kullanıcı, bir ürünü sepete ekleyebilmelidir.
 * Favorilere Ürün Ekleme Senaryosu: Kullanıcı, bir ürünü favorilere ekleyebilmelidir.
-
-### Test Koşum Raporunu Görüntüleme
-* Test koşumunu gerçekleştirdikten sonra 'reports' klasörü altında bulunan 'html-report' içerisindeki index.html uzantılı dosyadan test raporlarına ulaşabilirsiniz.
-![report.png](..%2F..%2Freport.png)
-
-### Version
-* v1.0
