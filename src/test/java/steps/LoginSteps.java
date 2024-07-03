@@ -64,4 +64,8 @@ public class LoginSteps extends Driver {
         methods.checkText(Elements.MSG_invalidLogin, text);
     }
 
+    @Step("popup kapatilir")
+    public void closePopup(){methods.click(Elements.BTN_closePopup);}
+
+
 }

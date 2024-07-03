@@ -5,7 +5,9 @@ Created by fatih.ozdemir on 4.03.2024
 * Giris Yap tabina tikla
 
 # Login islemi <email> emaili ve <password> sifresi ile yapilir
+* popup kapatilir
 * E-posta alanina <email> degerini gir
+* Giris Yap butonuna tikla
 * Sifre alanina <password> degerini gir
 * Giris Yap butonuna tikla
 
@@ -24,5 +26,11 @@ Created by fatih.ozdemir on 4.03.2024
 
 # Gecersiz mail ile giris yaptiktan sonra uyari mesaji goruntulenir
 * "Geçerli bir e-posta adresi girmelisin." uyari textini kontrol et
+
+# Login islemi <email> emaili ile yapilir
+* popup kapatilir
+* E-posta alanina <email> degerini gir
+* Giris Yap butonuna tikla
+
 
 

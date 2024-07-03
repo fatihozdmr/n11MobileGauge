@@ -20,6 +20,6 @@ TC-Search-02: Arama kutusu ile urun arama ve favorilere ekleme
 ------------------------------------------------
 * Arama kutusuna "iphone 15" yazilir ve arama yapilir
 * Favorilere ekle iconuna tiklanir
-* Login islemi "kayitlikullanici@gmail.com" emaili ve "********" sifresi ile yapilir
+* Login islemi "testfatih18@gmail.com" emaili ve "ozdemir1234." sifresi ile yapilir
 * Listelerim butonuna tiklanir ve urunun listeye eklendigi kontrol edilir
 * Urun listeden silinir ve listenin bos oldugu kontrol edilir

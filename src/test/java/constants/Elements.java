@@ -11,7 +11,7 @@ public class Elements {
     public static By BTN_myFavorite = By.id("com.dmall.mfandroid:id/navigation_favorite");
     public static By BTN_myAccount = By.id("com.dmall.mfandroid:id/navigation_account");
     public static By BTN_login = By.id("com.dmall.mfandroid:id/btn_login");
-    public static By TextBox_email = By.xpath("//android.widget.EditText[@resource-id=\"com.dmall.mfandroid:id/text_input_edit_text\" and @text=\"E-Posta Adresi\"]");
+    public static By TextBox_email = By.id("com.dmall.mfandroid:id/text_input_edit_text");
     public static By TextBox_password = By.xpath("//android.widget.EditText[@resource-id=\"com.dmall.mfandroid:id/text_input_edit_text\" and @text=\"Şifre\"]");
     public static By loginUserTitle = By.id("com.dmall.mfandroid:id/tv_user_name_title");
     public static By BTN_accountSettings = By.id("com.dmall.mfandroid:id/iv_account_settings");
@@ -44,5 +44,7 @@ public class Elements {
     public static By basketItemPrice = By.id("com.dmall.mfandroid:id/basketItemPriceTV");
     public static By TITLE_productName = By.id("com.dmall.mfandroid:id/tvTitle");
     public static By TITLE_productTitle = By.id("com.dmall.mfandroid:id/productTitleTV");
+    public static By BTN_closePopup = By.id("com.dmall.mfandroid:id/closeIV");
+
 
 }
