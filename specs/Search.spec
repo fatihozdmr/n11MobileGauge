@@ -6,6 +6,7 @@ Urun arama, sepete ekleme, favorilere ekleme senaryoları
 
 TC-Search-01: Urun Arama ve Sepete Ekleme
 ------------------------
+tags: TC-Search-01_UrunAramaVeSepeteEkleme
 
 * Kategoriler butonuna tiklanir ve kategoriler ekranina gidildigi kontrol edilir
 * Elektronik kategorisine tiklanir ve Bilgisayar kategorisi secilir
@@ -18,6 +19,8 @@ TC-Search-01: Urun Arama ve Sepete Ekleme
 
 TC-Search-02: Arama kutusu ile urun arama ve favorilere ekleme
 ------------------------------------------------
+tags: TC-Search-02_AramaKutusuIleUrunAramaVeFavorilereEkleme
+
 * Arama kutusuna "iphone 15" yazilir ve arama yapilir
 * Favorilere ekle iconuna tiklanir
 * Login islemi "testfatih18@gmail.com" emaili ve "ozdemir1234." sifresi ile yapilir
